@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/primary-cardiovascular-disease-cvd-risk-score---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-cardiovascular-disease-cvd-risk-score---primary.py
+inputModule4:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score-review---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score---primary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score-heart---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score-framingham---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score-assessment---primary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-disease-cvd-risk-score-society---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
